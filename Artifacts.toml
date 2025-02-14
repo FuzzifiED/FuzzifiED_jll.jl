@@ -431,12 +431,12 @@ os = "windows"
     url = "https://github.com/FuzzifiED/FuzzifiED_jll.jl/releases/download/FuzzifiED-v1.0.0+0/FuzzifiED.v1.0.0.i686-w64-mingw32-libgfortran3.tar.gz"
 [[FuzzifiED]]
 arch = "i686"
-git-tree-sha1 = "39649a3f81cb495d1ca2e82255ac6895487559ac"
+git-tree-sha1 = "af1045a0de18ff1b84abcb781cf3bfe9cb0d3957"
 libgfortran_version = "4.0.0"
 os = "windows"
 
     [[FuzzifiED.download]]
-    sha256 = "0f872b04736ce357560760056d81e671e10d25cd1aa223920ca1ee0492f8a5e5"
+    sha256 = "4d966f5909d185b1856f9c45c2abac2f888ef87afab2a51371e5344955a39130"
     url = "https://github.com/FuzzifiED/FuzzifiED_jll.jl/releases/download/FuzzifiED-v1.0.0+0/FuzzifiED.v1.0.0.i686-w64-mingw32-libgfortran4.tar.gz"
 [[FuzzifiED]]
 arch = "i686"
