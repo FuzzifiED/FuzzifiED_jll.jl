@@ -1,6 +1,6 @@
 name = "FuzzifiED_jll"
 uuid = "0fc6ce7e-a225-5ad5-93a0-97260cfa1513"
-version = "1.0.0+0"
+version = "1.0.3+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
