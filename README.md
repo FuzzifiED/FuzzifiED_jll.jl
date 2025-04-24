@@ -10,7 +10,7 @@ For more details about JLL packages and how to use them, see `BinaryBuilder.jl` 
 
 The tarballs for `FuzzifiED_jll.jl` have been built from these sources:
 
-* git repository: https://github.com/FuzzifiED/FuzzifiED_Fortran.git (revision: `9a15e4ee621eca6caaefed84244fe06a41c622fe`)
+* git repository: https://github.com/FuzzifiED/FuzzifiED_Fortran.git (revision: `79ca80b574404534fa31291bd03b0444712d6e9d`)
 
 ## Platforms
 
